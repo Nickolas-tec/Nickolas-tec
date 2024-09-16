@@ -37,10 +37,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Nickolas-tec/Nickolas-tec/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/nickolas-gomes-b9623424a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
