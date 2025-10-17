@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou Nickolas, tenho 21 anos e sou estudante de tecnologia, em busca de novas experiências no mercado.</p>
+<p align="left">Sou Nickolas, tenho 22 anos e sou estudante de tecnologia, em busca de novas experiências no mercado.</p>
 
 ###
 
